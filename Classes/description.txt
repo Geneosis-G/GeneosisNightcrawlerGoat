@@ -1,0 +1,31 @@
+Stealthy warrior able to warp anywhere.
+
+You are not really good to keep your human form... But who cares when your skin can take the color of your environment and make you almost invisible, and when you are able to teleport to any place you can see?
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Nightcrawler Goat: You can teleport, become stealthy and wallrun easily.
+
+[b]COMMANDS[/b]
+- [b][SprintKey]:[/b] Show teleport destination.
+- [b][SprintKey] + [AttackButton]:[/b] Teleport.
+- [b][RagdollKey]:[/b] Hold 1s to enable/disable stealth.
+
+[b]CHARACTERISTICS[/b]
+- Your wallrun skills are improved.
+- Teleportation keep your movement speed.
+- If you are ragdolled before teleportation, you will be unreagdolled after.
+
+[b]KNOWN BUGS[/b]
+- The camera can act weird if you go ragdoll too quickly after a teleportation.
+- You can rarely teleport inside uninhabited buildings or under the map, teleport again to fix it.
+- You can rarely teleport to the wrong place.
+- The stealth ability have the wrong texture (should be a glass texture).
+
+[b]DEV NOTES[/b]
+[quote=About this mod]This mod was also requested in the main request thread, and at first I didn't really want to do it because all the abilities it could have were already existing somewhere else. Anyway, I really like the character of Nightcrawler and after thinking about it I found that I could make his abilities slightly diferent, so that they can be considered as new.
+The first obvious ability for him is teleportation. For this I had not a lot of things to do as I did most of the work in the Time Master Goat. So I took this ability, changed the effect of the target and removed the code that stick the target to the ground.
+Then I wanted to make the goat able to stick to walls, but not the same way as Spider Goat, but more like an improved wallrun. Then I remembered that I did many tests for the Ninja Goat and concluded that it was impossible to maintain the wallrun state when you stop walking, so this ruined a bit the original objective... Anyway I was still able to give to the goat better wallrun skills by improving its speed, its duration and the wall jump height.
+Finally I wanted to make a stealth ability, like the one provided by the Rouge Goat, but that looks morel ike a cameleon. For that I tried to apply the texture of a glass to the goat. Sadly it's not as easy as it seems, and you can't just use the texture of a random object on a playable character... So I tried to change the structure of the texture file to make it compatible with the goat, but for now the only result I have crash the game when it tries to load the texture :/ So I kept the old shadow texture for the moment, but I plan to change it if I can find a fix for this problem.
+[/quote]
